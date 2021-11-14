@@ -28,3 +28,12 @@ filter can be used on the following critereas together or seperatly:" date, city
 
 ![Screen Shot 2021-11-14 at 6 09 27 PM (2)](https://user-images.githubusercontent.com/89428205/141702983-196021ce-55ad-4399-8d5e-de1297894c86.png)
 
+Summary:
+---
+UFO Sightings: Well UFO  stands fo "unidentified flying object", and that can be anything you see flying and you do not know what it is.
+But sometimes those sightings make a difference, and that is what this website is all about, making a difference in name of finding more data.
+Drawback
+1) the filter is case sensitive.
+Recommendations:
+2) clear search button
+3) data set download button for user
